@@ -1,0 +1,13 @@
+{
+  "name": "@mini-vue/shared",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "buildOptions":{
+    "name":"vueShared",
+    "formats":[
+      "cjs",
+      "esm-bundler"
+    ]
+  }
+}

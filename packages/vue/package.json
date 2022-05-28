@@ -1,0 +1,13 @@
+{
+  "name": "@mini-vue/vue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "buildOptions":{
+    "name":"MiniVue",
+    "formats":[
+      "cjs",
+      "esm-bundler"
+    ]
+  }
+}
